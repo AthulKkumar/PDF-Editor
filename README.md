@@ -29,30 +29,30 @@ PDF-Editor is an application designed to extract pages from a PDF file and creat
 
 ### Home Page
 
-![Home Page](/assets/homepage.png)
+![Home Page](./assests/homepage.png)
 
 - This is the home page where you can add a PDF file.
 
 ### PDF File Added
 
-![PDF File Added](/assets/pdf_added.png)
+![PDF File Added](./assests/pdf_added.png)
 
 - After adding the PDF file, click the submit button to view the added PDF file.
 
 ### Select Pages
 
-![Select Pages](/assets/select_page.png)
+![Select Pages](./assests/select_page.png)
 
 - You will see checkboxes under each page to select which pages you want to extract.
 
 ### View Extracted PDF
 
-![View Extracted PDF](/assets/view.png)
+![View Extracted PDF](./assests/view.png)
 
 - After clicking on "Extract", you will get a "View & Download" button to see the extracted PDF.
 
 ### Download Extracted PDF
 
-![Download Extracted PDF](./assets/extracted_pdf.png)
+![Download Extracted PDF](./assests/extracted_pdf.png)
 
 - On the top-right corner of the extracted PDF, you will find an option to download the extracted PDF if needed.
